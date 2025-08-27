@@ -1,135 +1,41 @@
-# HTML
+## GameStrat AI: O seu assistente de estratégias para jogos
 
-- HyperText
-    - Texto puros, livros, revistas, jornais
-    - Links: acessar outros documentos
-    - Imagens, videos, audio
+---
 
-- Markup
-    - Marcação 
-    - Tags: <a> Link </a>
-    - Atributos: <a href="https://rocketseat.com.br">
-    - Globais: id, class, ...
+### Visão Geral
 
-- Language
-    - Linguagem
-    - Sintaxe
+O **GameStrat AI** é uma inteligência artificial criada para revolucionar a forma como você joga. Projetado para analisar, sugerir e otimizar estratégias em tempo real, este projeto é a sua ferramenta definitiva para elevar o seu nível de jogo, seja você um jogador casual ou competitivo. Com o poder do aprendizado de máquina, o GameStrat AI oferece insights que vão muito além do senso comum.
 
-# HTTP
+### Funcionalidades & Recursos
 
-- HyperText
+O projeto foi desenvolvido para ser um guia completo de estratégias, oferecendo as seguintes funcionalidades principais:
 
-- Transfer
-    -Transferência
+* **Análise de Metagame**: Avalia as tendências atuais do jogo para identificar as estratégias mais eficazes e populares.
+* **Sugestão de Estratégias**: Baseado em seu estilo de jogo e nas condições da partida, a IA sugere táticas personalizadas para maximizar suas chances de vitória.
+* **Otimização de Builds/Composições**: Fornece recomendações sobre as melhores combinações de itens, personagens ou unidades para diferentes cenários de jogo.
+* **Análise Pós-Partida**: Oferece um feedback detalhado sobre suas decisões, apontando pontos fortes e áreas para melhoria.
+* **Interface Intuitiva**: A plataforma é projetada para ser fácil de usar, permitindo que você obtenha as informações de que precisa rapidamente.
 
--Protocol
-    - Protocolo
-    - Conjunto de regras 
-- Methods HTTP (verbos): Get, Post, Patch//Put, Delete
-- Headers (cabeçalhos): Instruções/Informações extras para cada chamada
+### Tecnologias Utilizadas
 
-# URl
+Este projeto foi construído com uma base robusta de tecnologias, garantindo performance e escalabilidade:
 
--Uniform 
-    - Uniforme
+* **HTML & CSS**: Para a estruturação e estilização da interface.
+* **JavaScript**: Para a lógica de programação e funcionalidades interativas da IA.
+* **Git & GitHub**: Utilizados para controle de versão, colaboração e hospedagem segura do código.
+* **Figma**: Ferramenta essencial para o prototipagem e design da interface (UI/UX), assegurando uma experiência visual consistente.
 
--Resource
-    -Recurso
+### Benefícios do Sistema
 
--Locator
-    - Encontrar um recurso (html, css, js, pdf, png, mp4, mp3 ...)
+A utilização do GameStrat AI oferece vantagens significativas para qualquer jogador:
 
-# IP
+* **Melhoria Contínua**: Permite que você aprenda com cada partida e aprimore suas habilidades de forma acelerada.
+* **Tomada de Decisão Eficaz**: Ajuda a fazer escolhas mais inteligentes sob pressão.
+* **Vantagem Competitiva**: Fornece informações valiosas que podem ser o diferencial entre a derrota e a vitória.
+* **Economia de Tempo**: Reduz a necessidade de passar horas estudando estratégias, permitindo que você se concentre na diversão de jogar.
 
--Internet
-    - Rede mundial de computadores
+---
 
--Protocol
-    -Conjunto de regras 
+### Autor
 
--Endereço do computador 
-
-rocketseat.com.br é um domínio
-123.32.1.23 é um ip
-
-# DNS
-
--Domain
-    -Domínio
--Name
-    -Nome
--Server
-    -Servidor
-
-# CSS
-
--Cascading
-    -Cascata
-    -Regras das escritas 
-    -Hierarquia
-    -Especificidade
-
--Style
-    -Estilo
--Sheet
-    -Folha
-
-De um arquivo que terá na sua sintaxe, declarações, propriedades e valores.
-A partir disso, o HTML é impactado visualmente.
-
-- Declaração 
--Seletor
--Propriedade e valor 
-
-# JS
-
-- Linguagem de programação 
-- Browsers
-- Input -> Process -> Output
-- Variaveis 
-- Functions 
-    - Agrupamento e reuso de código
-    - Sequencia lógica
-    - Saída
-- Gemini (IA): Espera uma resposta 
-- Mexer no meu navegador 
-- Estrutura de dados 
-- Estrutura de desisão 
-- Lógica (Pensamento computacional)
-    -Abstração
-    -Decomposição
-    - Algorítmo
-
-# DOM
-- Document
-- Object
-- Model 
-
-# API
-
-- Application
-- Programming
-- Interface 
-- JSON: JavaScript object Notation
-
-# CDN
-
-- Content
-- Delivery
-- Network
-
-# LLM
-- Large
-- Language
-- Model
-- Gemini, ChatGPT
-
-# Agentes AI
-- Tools (Ferramentas): Permite uso de código, ou apps, ou qualquer informação extra.
-- Melhor contexto
-
-# Engenharia de prompt
-
-- One shot: Uma única pergunta sem muito contexto
-- Few shot: É representado exemplos do que se espera
-- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução
+* [Seu Nome/GitHub](Link para seu perfil do GitHub)
