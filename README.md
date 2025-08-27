@@ -34,8 +34,3 @@ A utilização do GameStrat AI oferece vantagens significativas para qualquer jo
 * **Vantagem Competitiva**: Fornece informações valiosas que podem ser o diferencial entre a derrota e a vitória.
 * **Economia de Tempo**: Reduz a necessidade de passar horas estudando estratégias, permitindo que você se concentre na diversão de jogar.
 
----
-
-### Autor
-
-* [Seu Nome/GitHub](Link para seu perfil do GitHub)
